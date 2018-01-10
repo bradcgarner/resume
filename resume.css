@@ -322,5 +322,9 @@ footer .tooltipText {
 	.moreSpaceOnPrint, .moreSpaceOnPrint p {
 		margin-top: 8px;
 	}
+	.lessSpaceOnPrint {
+		margin-top: 0px;
+		margin-bottom: 4px;
+	}
 }
 
